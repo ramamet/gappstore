@@ -10,11 +10,14 @@ License: What license is it under?
 Encoding: UTF-8
 Imports:
     tidyverse,
+    fst,
     magrittr,
     shiny,
-    shinyBS
+    shinyBS,
+    memoise
 Suggests:
     testthat,
     roxygen2,
     knitr,
     rmarkdown
+RoxygenNote: 7.1.2
