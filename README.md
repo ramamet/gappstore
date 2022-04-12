@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-An R package for weighted gene co-expression networks based on partial correlation and information theory approaches
+An R package for mobile app analytics based on google play store dataset (> 1 million apps!)
 
 # Installing
 
